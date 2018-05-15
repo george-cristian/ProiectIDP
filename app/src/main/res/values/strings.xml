@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ProiectIDP</string>
+
+    <string name="sign_in">Please choose a method to Sign In</string>
+
+    <string name="current_location">Your current location is:</string>
+    <string name="current_friends">Your friends location:</string>
+
+    <string name="location_changed">Your location has changed!</string>
+
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="altitude">Altitude</string>
+
+    <string name="facebook_app_id">1489635021136151</string>
+    <string name="fb_login_protocol_scheme">fb1489635021136151</string>
+
+</resources>
