@@ -1,2 +1,2 @@
 # ProiectIDP
-Aplicatie Android care afiseaza distanta fata de prietenii de pe Facebook.
+Andoird Application which displays the distance betweend friends on Facebook.
